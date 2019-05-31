@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Canadian Democracy</string>
+    <string name="reps_website_placeholder">www.yourrep.ca</string>
+    <string name="party_affiliation_placeholder">Party Affiliation</string>
+    <string name="reps_name_placeholder">Rep\'s Name</string>
+    <string name="web_site_logo_description">Web site logo</string>
+    <string name="reps_picture_description">Photo of Representative</string>
+    <string name="search_suggestion_label">Choose Your Legislature to See Members Profiles...</string>
+    <string name="button_text">GO, CANADA, GO!</string>
+    <string name="main_label">Canadian Democracy</string>
+    <string name="canada_logo">Canada Logo</string>
+    <string name="missing_url_message">This rep doesn\'t have a website</string>
+    missing_url_message
+</resources>
